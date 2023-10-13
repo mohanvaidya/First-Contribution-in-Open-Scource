@@ -114,6 +114,13 @@
 		            <sub><b>  Yash Parmar  </b></sub>
 		            </a>
 	    </td>
+	    <td align="center">
+		            <a href="https://github.com/mohanvaidya">
+		            <img src="https://avatars.githubusercontent.com/u/131249018?s=400&u=bfd8fdec01a0b3bab67c61110d8bb98ec8799a0d&v=4" width="100px;"/>
+		            <br />
+		            <sub><b> Mohan Vaidya  </b></sub>
+		            </a>
+		</td>
 	    </td>
         </tr>
     </tbody>
